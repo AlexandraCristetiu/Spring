@@ -1,0 +1,15 @@
+com\example\demoSpring\data\DAO\User.class
+com\example\demoSpring\data\repositories\UserRepository.class
+com\example\demoSpring\data\DAO\Author.class
+com\example\demoSpring\DemoSpringApplication.class
+com\example\demoSpring\beans\FirstName.class
+com\example\demoSpring\data\DAO\Address.class
+com\example\demoSpring\interfaces\BeanName.class
+com\example\demoSpring\beans\SecondName.class
+com\example\demoSpring\config\AppConfig.class
+com\example\demoSpring\beans\MyBean.class
+com\example\demoSpring\services\IUserService.class
+com\example\demoSpring\controllers\UserController.class
+com\example\demoSpring\services\UserService.class
+com\example\demoSpring\data\DAO\Book.class
+com\example\demoSpring\data\DTO\UserDTO.class

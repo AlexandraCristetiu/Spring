@@ -1,0 +1,12 @@
+.deleteUser{
+content: url(/img/del.png);
+height: 20px;
+vertical-align: middle;
+}
+
+a{
+text-decoration: none;
+}
+.logout{
+float:right;
+}
